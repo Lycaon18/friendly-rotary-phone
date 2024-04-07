@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "hexerei:mahogany_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:mahogany_hexerei_log_stool",
+    "count": 4
+  }
+}

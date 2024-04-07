@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mahogany_hexerei_raw_table_log",
+    "count": 4
+  }
+}

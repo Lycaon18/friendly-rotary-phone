@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_willow_hexerei_chair_modern",
+    "count": 4
+  }
+}
